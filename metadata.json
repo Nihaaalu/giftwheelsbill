@@ -1,0 +1,6 @@
+
+{
+  "name": "one:64.vault Invoice Generator",
+  "description": "A professional, single-page invoice generator for one:64.vault. Features logo upload, automatic calculations, and print-ready layouts.",
+  "requestFramePermissions": []
+}
